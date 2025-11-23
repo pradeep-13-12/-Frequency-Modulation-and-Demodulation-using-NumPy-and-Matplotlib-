@@ -99,5 +99,7 @@ __Output:__
 
 
 __Result:__ 
-The frequency modulation and demodulation were successfully implemented using Python. The message, carrier, FM signal, and recovered output were generated and verified correctly.
+
+![WhatsApp Image 2025-11-23 at 07 37 58_72d5b9df](https://github.com/user-attachments/assets/8c0ad423-20b3-4a72-b7b2-c2b94bbae6fb)
+
 
